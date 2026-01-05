@@ -1,6 +1,6 @@
 # Hotel Simulation Project
 
-https://github.com/AmitOren7/Machine-Learning-Course/edit/main/README.md
+Collaborated with [@eden2465](https://github.com/eden2465)
 
 ## Overview
 
