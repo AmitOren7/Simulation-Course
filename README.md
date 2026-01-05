@@ -1,5 +1,7 @@
 # Hotel Simulation Project
 
+https://github.com/AmitOren7/Machine-Learning-Course/edit/main/README.md
+
 ## Overview
 
 This project models a **hotel with various facilities** using **event-based simulation**. The goal is to analyze customer behavior, queue times, and hotel ratings based on different factors. Through statistical analysis, we examine aspects such as **check-in and check-out processes**, **facility usage**, and **alternative management strategies** to optimize hotel performance.
